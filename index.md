@@ -8,3 +8,8 @@ The more '#' the smaller the text gets
 ``` javascript
 var myVar = "Hello, World!";
 ```
+
+- [ ] Number 1
+- [ ] Number 2
+- [ ] Number 3
+      
